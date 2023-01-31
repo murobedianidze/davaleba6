@@ -97,3 +97,30 @@ padding: 33px 30px 36px;
     width: 95%;
     margin-bottom: 60px;
 }
+footer{
+    padding: 46px 98px 30px 97px;
+    background-color: #758BFD;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end; 
+}
+.search_box{
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    width: 449px;
+    height: 64px;
+}
+.searchtext{
+    width: 449px;
+    border-radius: 10px;
+    font-size: 40px;
+    border: none;
+    outline: none;
+}
+.searchbtn{
+    position: absolute;
+    color: #9747FF;
+}
+
+   
